@@ -2,12 +2,12 @@
 
 Just run the APK file (login.apk) PHP files are hosted on my personnel webserver.
 You can just install the APK for testing,
-<p>### Sample inputs
+#### Sample inputs
 username: akhil
 password: akhil
       or
 username: jose
-password: jose</p>
+password: jose
 
 Please follow steps to install and run
 1) PHP file and APK files are included in this repository. you can find it right here...
