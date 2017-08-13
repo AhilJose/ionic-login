@@ -87,9 +87,6 @@ var HomePage = (function () {
             this.pushOver();
             //	  	this.navCtrl.setRoot(DashboardPage);
         }
-        else {
-            this.Okay = 'Incorrect Credentials';
-        }
     };
     HomePage.prototype.pushOver = function () {
         this.navCtrl.setRoot(__WEBPACK_IMPORTED_MODULE_3__dashboard_dashboard__["a" /* DashboardPage */]);

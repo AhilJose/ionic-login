@@ -32,10 +32,6 @@ export class HomePage {
 		this.pushOver();
 //	  	this.navCtrl.setRoot(DashboardPage);
 	}
-	else
-	{
-		this.Okay = 'Incorrect Credentials';
-	}
   }
   pushOver()
   {
