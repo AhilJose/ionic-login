@@ -17,7 +17,8 @@ export class HomePage {
  	this.http = http;
   }
   submit() {
-	var link = 'http://localhost/angular/login.php';
+//	var link = 'http://localhost/angular/login.php';
+	var link = 'http://ahiljose.me/master/ionic/login.php';
 	var myData = JSON.stringify({username: this.data.username, password: this.data.password});
 	
 	this.http.post(link, myData)

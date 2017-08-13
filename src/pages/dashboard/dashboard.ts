@@ -9,8 +9,7 @@ import { HomePage } from '../home/home';
 })
 export class DashboardPage {
 
-  constructor(private navCtrl: NavController, private navParams: NavParams) {
-
+  constructor(public navCtrl: NavController, public navParams: NavParams) {
   }
 
   ionViewDidLoad() {
