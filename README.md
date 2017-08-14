@@ -19,5 +19,4 @@ Please follow steps to install and run
     var link = 'http://localhost/angular/login.php';
     
 
-![alt text](https://github.com/AhilJose/ionic-login/blob/master/1.jpeg)
-![alt text](https://github.com/AhilJose/ionic-login/blob/master/2.jpeg)
+# ![alt text](https://github.com/AhilJose/ionic-login/blob/master/1.jpeg) # ![alt text](https://github.com/AhilJose/ionic-login/blob/master/2.jpeg)
