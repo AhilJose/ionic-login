@@ -18,6 +18,6 @@ Please follow steps to install and run
 3) change below link in your pages/home/home.ts file
     var link = 'http://localhost/angular/login.php';
     
-That's it
+
 ![alt text](https://github.com/AhilJose/ionic-login/blob/master/1.jpeg)
 ![alt text](https://github.com/AhilJose/ionic-login/blob/master/2.jpeg)
