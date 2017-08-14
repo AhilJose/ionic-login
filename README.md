@@ -19,3 +19,5 @@ Please follow steps to install and run
     var link = 'http://localhost/angular/login.php';
     
 That's it
+
+![alt text]()
