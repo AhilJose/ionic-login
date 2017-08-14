@@ -1,6 +1,6 @@
 # Simple Login Page using Ionic 3
 
-Just run the APK file (login.apk) PHP files are hosted on my personnel webserver.
+Just run the APK file (https://github.com/AhilJose/ionic-login/blob/master/login.apk) PHP files are hosted on my personnel webserver.
 You can just install the APK for testing,
 #### Sample inputs
 username: akhil
@@ -19,5 +19,5 @@ Please follow steps to install and run
     var link = 'http://localhost/angular/login.php';
     
 That's it
-
-![alt text]()
+![alt text](https://github.com/AhilJose/ionic-login/blob/master/1.jpeg)
+![alt text](https://github.com/AhilJose/ionic-login/blob/master/2.jpeg)
